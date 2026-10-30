@@ -48,5 +48,14 @@ Cena escura com volume orbital, feixe de luz, frase introdutória e revelação 
 
 Validação: sintaxe JavaScript, quadro desktop/mobile (390 px), saída automática, repetição e botão de pular conferidos em navegador.
 
-## Publicar na Vercel
-Importar este repositório, usar framework Other e saída dist. O vercel.json já define estas opções. Não há instalação de dependências nem compilação.
+## Direção 07 — LUME Films, conteúdo e hierarquia
+Comparação com a referência fornecida: https://screenshot-to-silk-990.lovable.app/. Incorporados os nomes Triama, HD Studio e Centerbox e suas categorias, Pedro e Breno como fundadores, direção de arte e desenvolvimento criativo. Sem criar resultados, datas, biografias, imagens de clientes ou contatos não fornecidos.
+
+Nova seleção de projetos com fichas navegáveis, manifesto editorial com acesso ao manifesto existente, seção dos fundadores e seis serviços integrados ao briefing. Laboratório visual separado do portfólio identificado. Abertura, símbolo 3D, composição por rolagem, Ateliê de luz, filtros, FAQ e rodapé preservados.
+
+Validação executada: sintaxe JS, âncoras e assets locais, fichas e navegação de projetos, passagem para briefing, manifesto e novos serviços no briefing gerado. Layout mobile útil de 375 px sem overflow horizontal, fichas e fundadores conferidos visualmente. WebGL indisponível no navegador de QA; fallback Canvas conferido.
+
+A referência ainda exibe showreel e biografias provisórios, detalhes de projetos incompletos e redes sociais apontando a #. Para completar essas partes com material real, são necessários o vídeo, os detalhes e as URLs comerciais.
+
+## Vercel
+A versão GitHub contém vercel.json com framework Other, sem build ou instalação e saída dist. Importar stevaoTec/lume-studio ou publicar seu commit main no projeto lume-studio.
