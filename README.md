@@ -66,3 +66,10 @@ Escopo: apenas as seções adicionadas na direção 07, o destaque da frase da a
 Projetos com estudos gráficos abstratos de luz e entradas escalonadas; manifesto com revelação por linha e passagem de luz; fundadores com iniciais metálicas e profundidade. A frase da abertura ganha hierarquia e destaque luminoso na palavra luz. Fumaça procedural em Canvas de baixa resolução e frequência limitada, sem bibliotecas, pausa com a aba oculta e desativação por movimento reduzido ou economia de dados. Não captura cliques nem entra na árvore de acessibilidade.
 
 Validação: comparação automatizada confirma o mesmo conteúdo textual, além de sintaxe JS, assets e âncoras. Ficha de HD Studio testada no celular; layouts desktop e mobile conferidos visualmente; largura útil de 375 px sem overflow horizontal. WebGL continua bloqueado pelo navegador de QA; renderer original preservado.
+
+## Direção 09 — Conteúdo, serviços e ritmo
+Textos refinados para clareza e unidade; todas as seções e os seis serviços preservados. Novo painel de formas metálicas acompanha a frente aberta ou focada no acordeão. Cada serviço tem um atalho que prepara o briefing com o preset correspondente, mantendo nome e ideia já digitados. Sem biblioteca adicional ou alteração da escultura principal.
+
+Processo com título próprio, linha de etapas e saídas concretas de cada fase. FAQ revisado com uma resposta para quem ainda não tem uma ideia pronta. Ajustado espaçamento mobile do grid de serviços, que usava porcentagem e gerava uma lacuna excessiva.
+
+Validação: sintaxe de finish.js e editorial.js, integridade de assets/âncoras/IDs e todos os presets. No navegador: troca do foco visual para sites e desenvolvimento criativo, CTAs com seleção correta, preservação de nome/ideia ao trocar para direção de arte, nova resposta do FAQ e largura útil mobile de 375 px sem overflow horizontal. Layouts desktop e mobile conferidos. Movimento reduzido implementado para os novos efeitos. WebGL segue indisponível no ambiente de QA; a escultura original e seu fallback foram preservados.
