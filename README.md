@@ -59,3 +59,10 @@ A referência ainda exibe showreel e biografias provisórios, detalhes de projet
 
 ## Vercel
 A versão GitHub contém vercel.json com framework Other, sem build ou instalação e saída dist. Importar stevaoTec/lume-studio ou publicar seu commit main no projeto lume-studio.
+
+## Direção 08 — Polimento restrito de motion e atmosfera
+Escopo: apenas as seções adicionadas na direção 07, o destaque da frase da abertura e fumaça decorativa de fundo. Textos, navegação, serviços, interações e duração da abertura preservados.
+
+Projetos com estudos gráficos abstratos de luz e entradas escalonadas; manifesto com revelação por linha e passagem de luz; fundadores com iniciais metálicas e profundidade. A frase da abertura ganha hierarquia e destaque luminoso na palavra luz. Fumaça procedural em Canvas de baixa resolução e frequência limitada, sem bibliotecas, pausa com a aba oculta e desativação por movimento reduzido ou economia de dados. Não captura cliques nem entra na árvore de acessibilidade.
+
+Validação: comparação automatizada confirma o mesmo conteúdo textual, além de sintaxe JS, assets e âncoras. Ficha de HD Studio testada no celular; layouts desktop e mobile conferidos visualmente; largura útil de 375 px sem overflow horizontal. WebGL continua bloqueado pelo navegador de QA; renderer original preservado.
