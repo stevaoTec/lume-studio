@@ -1,0 +1,11 @@
+LUME — Créditos de recursos
+Identidade visual: imagens fornecidas pelo usuário.
+Fotografias de referência: Unsplash (não representam trabalhos da LUME).
+https://images.unsplash.com/photo-1515886657613-9f3515b0c78f
+https://images.unsplash.com/photo-1492691527719-9d1e07e534b4
+https://images.unsplash.com/photo-1486406146926-c627a92ad1ab
+Three.js 0.169.0: MIT; assets/THREE-LICENSE.txt.
+Manrope: SIL Open Font License; assets/MANROPE-LICENSE.txt.
+Escultura procedural, interface e estudos digitais: criados para este site.
+Logo PNG: reconstrução em curvas baseada na identidade enviada pelo usuário; arte branca com transparência, exportação 2656 x 792 px. Arquivo SVG de reconstrução incluído nos assets.
+Direção 04: símbolo reconstruído em curvas medidas da imagem de referência; lettering regularizado nas posições e proporções de referência. PNG 2568 x 748 px. Escultura e alternativa Canvas compartilham os contornos do emblema. Não se trata do arquivo vetorial original da marca.
